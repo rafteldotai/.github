@@ -1,6 +1,6 @@
 <p align="center">
   <a href=#">
-    <img src="https://github.com/rafteldotai/.github/blob/master/profile/opaque.png">
+    <img src="https://github.com/rafteldotai/.github/blob/main/profile/opaque.png">
   </a>
 </p>
 
